@@ -1,7 +1,6 @@
 <?php
-declare(strict_types=1);
 
-use TestTask\SortingString\AlphabeticalSorting;
+use SortingString\AlphabeticalSorting;
 use PHPUnit\Framework\TestCase;
 
 class AlphabeticalSortingTest extends TestCase

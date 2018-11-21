@@ -1,9 +1,9 @@
 <?php
 /**
- * Class SortingString
+ * Class AlphabeticalSorting
  */
 
-namespace TestTask\SortingString;
+namespace SortingString;
 
 class AlphabeticalSorting
 {
