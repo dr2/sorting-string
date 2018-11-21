@@ -1,0 +1,26 @@
+{
+    "name": "dr2/sorting-string",
+    "description": "Test task - Alphabetical sorting letter",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dr2",
+            "email": "novikovxkv@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.1.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "SortingString\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+
+}
